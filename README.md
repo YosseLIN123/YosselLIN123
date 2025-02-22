@@ -1,20 +1,53 @@
- ### Hey,[ Holaaaa!!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ <h1 align="center">
+ HOLAAA, SOY YOSSELIN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<p align="center">
+</br> 
 
-##
 
+<a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+</br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***acerca de mi***
 
-Acerca de mí
-Soy estudiante de grado de Perito en computación en el Colegio Tecnológico en Informática. Me encanta aprender y crear algo nuevo, productivo, innovador y creativo.
-•	Estoy interesado en el diseño web, el desarrollo de Android y el marketing digital.
-•	🌱Actualmente estoy aprendiendo...
-o	C#
-o	Reaccionar JS
-•	👯 Estoy deseando colaborar en proyectos de código abierto.
+- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
+- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
+- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
+- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 🏡'Lives in **Dalugama Sri Lanka**
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+  <su
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 • Fuera de la tecnología, me encanta ver películas 🎬, escuchar música 🎶 y explorar la naturaleza al aire libre 🌿🌳.
@@ -22,16 +55,7 @@ o	Reaccionar JS
 href="xolreyesd@gmail.com
 
 
-## My Skills Include
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-
-
-
- 
 </span>
 
 <h4> Office </h4>
