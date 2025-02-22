@@ -1,63 +1,59 @@
  <h1 align="center">
- HOLAAA, SOY YOSSELIN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
 
+ 
+<h1 align="center"> HOLAA, SOY YOSSELIN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-</br> 
+</p>
 
-
-<a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-</br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Acerca de mi
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***acerca de mi***
+<br><br>
+ Soy estudiante de Perito en Computación en el Colegio Tecnológico en Informática. Me apasiona la tecnología y disfruto aprender y crear cosas nuevas, productivas, innovadoras y creativas.
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+<strong>🚀 Intereses:</strong>  
+<span style="display: inline-flex; align-items: center; gap: 15px;">
+  💡 Tecnología, desarrollo de software y marketing digital 📊  
+  📌 Actualmente aprendiendo C# 💻  
+  🛠️ Desarrollando proyectos de código y explorando nuevas ideas  
+</span>
+
+<br><br>
+
+<strong>🎭 Fuera de la tecnología:</strong>  
+<span style="display: inline-flex; align-items: center; gap: 15px;">
+  💃 Me encanta la danza  
+  🎬 Disfruto ver películas  
+  🎶 Escuchar música  
+  🌿 Explorar la naturaleza al aire libre  
+</span>
+
+<br><br>
+
+<strong>📩 Contáctame:</strong>  
+📧 <strong>Email:</strong> <a href="mailto:xolreyesd@gmail.com">xolreyesd@gmail.com</a> ✉️
 
 <br>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
   <su
 
 
 
 
+ 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-• Fuera de la tecnología, me encanta ver películas 🎬, escuchar música 🎶 y explorar la naturaleza al aire libre 🌿🌳.
-• 📬 Contáctame en: 
-href="xolreyesd@gmail.com
-
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
 
 </span>
-
 <h4> Office </h4>
 <span>
   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
@@ -67,6 +63,10 @@ href="xolreyesd@gmail.com
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
  
 </span>
+
+
+
+
 
 <h4> Databases </h4>
 <span>
@@ -102,5 +102,14 @@ href="xolreyesd@gmail.com
    
 
 </span>
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+ 
+[![](https://github-readme-stats.vercel.app/api?username=YosseLIN123&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/YosseLIN123)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=YosseLIN123&theme=material-palenight)](https://github.com/YosseLIN123)
+</div>
+
+
 
 
